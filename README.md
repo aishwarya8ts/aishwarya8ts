@@ -45,7 +45,7 @@ Aspiring Software Engineering Intern with hands-on experience in software develo
 
 
 <!--
-**ARPIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AISHWARYA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
