@@ -13,7 +13,7 @@ Aspiring Software Engineering Intern with hands-on experience in software develo
 ![](https://raw.githubusercontent.com/prakhar105/prakhar105/output/github-contribution-grid-snake.svg)<br/>
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) !
+![Python](https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 
 
